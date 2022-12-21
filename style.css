@@ -44,7 +44,7 @@ img, iframe {
 }
 
 .btn {
-    background-color: #FFC108;
+    background-color: grey;
     color: white;
     padding: 8px 24px;
 }
@@ -53,7 +53,7 @@ img, iframe {
     background-color: white;
     color: black;
     margin-right: 16px;
-    border: 2px solid #FFC108;
+    border: 2px solid grey;
 }
 
 #header {
